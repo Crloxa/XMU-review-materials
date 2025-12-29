@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.md": "markdown",
+        ".env.dev": "properties",
+        "random": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "algorithm": "cpp"
+    }
+}
